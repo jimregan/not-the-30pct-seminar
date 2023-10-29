@@ -58,6 +58,7 @@ Constant stream of recruiter emails
     * June 2017: "Attention is all you need"
     * Everything obsolete
     * Minor mental breakdown
+    * Never touching machine translation again
 
 ---
 
@@ -77,7 +78,7 @@ Zero recruiter emails. Mild panic.
 
 ## September 29, 2017
 
-![Image](media/IMG_20170929_134810.jpeg){#id .class width=450 height=600}
+![Image](media/IMG_20170929_134810.jpeg){#id .class width=413 height=550}
 
 <!--
 Back story:
@@ -101,4 +102,93 @@ Obviously, I sent a picture to Aoife, because I'm mildly evil.
 
 ## September 29, 2017
 
-![](media/IMAG4279.jpeg){#id .class width=450 height=600}
+![](media/IMAG4279.jpeg){#id .class width=413 height=550}
+
+---
+
+## October 2017--April 2018
+
+Nothing
+
+---
+
+## April 2018
+
+> Hey, your master's is basically a linguistics degree. Have you
+> considered teaching English?
+
+---
+
+## April 2018
+
+Got a job as an English teacher, starting October
+
+---
+
+## June 2018
+
+> Hey, we have funding for ASR for Irish, want to work here?
+
+---
+
+## July-September 2018
+
+* Research assistant, Phonetics and phonology lab, TCD
+
+---
+
+## October 2018-June 2020
+
+* English Teacher, CLIL Szkoła Języków Obcych, Pruszków, Poland
+
+---
+
+## But!
+
+Teaching English with a school follows the school year.
+
+Need to find something else in the summer.
+
+---
+
+## Summer 2019
+
+* Summer camp English teacher
+
+---
+
+## March/April 2020
+
+* COVID!
+    * All classes online
+    * Face covering worn outside
+    * Allowed to leave the home for:
+        * Work
+        * Supermarket
+        * Pharmacy
+        * Exercise
+        * Something something religion
+    * All airports closed
+
+---
+
+## June 2020
+
+A choice:
+
+* Return to Ireland
+    * But be unemployed
+* Stay in Poland
+    * Be unemployed
+    * Be homeless
+
+---
+
+## June 26, 2020
+
+Lived out the 80s spy movie dream by sneaking across the border into Germany
+in the early hours of the morning.
+
+---
+
+ 
