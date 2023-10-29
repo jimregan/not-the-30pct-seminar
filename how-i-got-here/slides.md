@@ -42,6 +42,17 @@ M.Phil in Speech and Language Processing, Trinity College, Dublin
 
 M.Phil in Speech and Language Processing, Trinity College, Dublin
 
+Basically, a weird mix of:
+
+* Acoustic phonetics and phonology
+* "Natural Language Processing" (actually Computational Linguistics)
+
+---
+
+## 2015-2017
+
+M.Phil in Speech and Language Processing, Trinity College, Dublin
+
 Constant stream of recruiter emails
 
 ---
@@ -223,9 +234,30 @@ and nobody new needs to suffer like that.
 
 ---
 
+## June, 2021
+
+Birger:
+
+> Hey, have you ever considered moving to Stockholm?
+
+Birger set up a meeting.
+
+
+---
+
 ## June 10, 2021
 
 * Interview with Jens
+
+---
+
+## June 10, 2021
+
+- The time for a PhD is quite strict these days. Oh, in my day I spent most of the 90s working here for basically nothing.
+- Yeah, one of my professors went there, he took 18 years to finish his PhD
+- Who is he? Maybe I know him
+- Christer Gobl
+- We're friends! No need for references, because I'm calling him!
 
 ---
 
