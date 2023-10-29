@@ -55,9 +55,9 @@ Constant stream of recruiter emails
 ## August/September 2017
 
 * Dissertation writing
-** June 2017: "Attention is all you need"
-** Everything obsolete
-** Minor mental breakdown
+    * June 2017: "Attention is all you need"
+    * Everything obsolete
+    * Minor mental breakdown
 
 ---
 
@@ -69,3 +69,12 @@ Zero recruiter emails. Mild panic.
 
 ---
 
+## September 29, 2017
+
+* Dissertation submitted
+
+---
+
+## September 29, 2017
+
+![Image](media/IMG_20170929_134810.jpeg =675x900)
