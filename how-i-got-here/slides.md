@@ -249,7 +249,7 @@ Birger set up a meeting.
 
 * Interview with Jens
 
----
+<!--
 
 ## June 10, 2021
 
@@ -258,6 +258,7 @@ Birger set up a meeting.
 - Who is he? Maybe I know him
 - Christer Gobl
 - We're friends! No need for references, because I'm calling him!
+-->
 
 ---
 
