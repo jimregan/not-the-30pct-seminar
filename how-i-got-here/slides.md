@@ -1,5 +1,7 @@
-# How I got here
-
+---
+author: Jim O'Regan
+title: How I got here
+date: November 3, 2023
 ---
 
 ## T-bana
