@@ -133,7 +133,7 @@ Got a job as an English teacher, starting October
 
 ## July-September 2018
 
-* Research assistant, Phonetics and phonology lab, TCD
+* Research assistant: ASR for Irish, Phonetics and phonology lab, TCD
 
 ---
 
@@ -177,7 +177,7 @@ Need to find something else in the summer.
 A choice:
 
 * Return to Ireland
-    * But be unemployed
+    * Be unemployed
 * Stay in Poland
     * Be unemployed
     * Be homeless
@@ -191,4 +191,58 @@ in the early hours of the morning.
 
 ---
 
- 
+## June 2020
+
+> The guy who replaced you is doing an internship, you should be able to
+> come back here as a research assistant.
+
+---
+
+## June 2020 - June 2021
+
+Number of responses: 0
+
+---
+
+## March 2021
+
+Huggingface wav2vec2 challenge
+
+* Slack channel set up
+
+---
+
+## ~May 2021
+
+Birger asked for help with <a href="https://arxiv.org/abs/2105.11084">wav2vec-U</a> on HF Slack channel.
+
+I've used Kaldi before, I offered to help.
+
+Because using Kaldi is like juggling chainsaws while standing on a beachball,
+and nobody new needs to suffer like that.
+
+---
+
+## June 10, 2021
+
+* Interview with Jens
+
+---
+
+## June 11, 2021
+
+* Response from former lab
+
+---
+
+## September 2021
+
+* Theoretical start time
+* Start time according to LADOK
+
+---
+
+## September - December 2021
+
+* Research assistant: ASR for Irish, Phonetics and phonology lab, TCD
+
