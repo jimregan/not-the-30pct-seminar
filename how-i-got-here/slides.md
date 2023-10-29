@@ -77,4 +77,4 @@ Zero recruiter emails. Mild panic.
 
 ## September 29, 2017
 
-![Image](media/IMG_20170929_134810.jpeg =675x900)
+![Image](media/IMG_20170929_134810.jpeg){#id .class width=675 height=900}
