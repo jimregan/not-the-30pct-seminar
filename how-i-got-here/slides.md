@@ -77,4 +77,28 @@ Zero recruiter emails. Mild panic.
 
 ## September 29, 2017
 
-![Image](media/IMG_20170929_134810.jpeg){#id .class width=675 height=900}
+![Image](media/IMG_20170929_134810.jpeg){#id .class width=450 height=600}
+
+<!--
+Back story:
+
+My classmate, Aoife, submitted her dissertation a week before mine. My
+friend Jenny, the XO, took her dissertation, got her to sign some forms,
+then looked up at her. Aoife looked back, expectantly.
+
+Jenny: "what, do expect fireworks?"
+Aoife: "yeah, kind of"
+Jenny: "sorry, you're done, the rest is up to you"
+
+Fast forward one week, I handed Jenny my dissertation, signed the forms, and
+collapsed on her desk. When I looked up, she had this bottle of prosecco
+waiting for me.
+
+Obviously, I sent a picture to Aoife, because I'm mildly evil.
+-->
+
+---
+
+## September 29, 2017
+
+![](media/IMAG4279.jpeg){#id .class width=450 height=600}
