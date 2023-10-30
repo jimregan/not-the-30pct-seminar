@@ -281,3 +281,9 @@ Birger set up a meeting.
 
 * Research assistant: ASR for Irish, Phonetics and phonology lab, TCD
 
+---
+
+## January 2, 2022
+
+Got here
+
