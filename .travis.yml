@@ -8,6 +8,8 @@ before_install:
 script:
   # create docs directory for pandoc output
   - mkdir docs
+  - mkdir docs/edgy-joke
+  - mkdir docs/how-i-got-here
   # Generate reveal.js powered HTML from Markdown
   - pandoc --standalone -t revealjs -o docs/edgy-joke/index.html edgy-joke/slides.md -V revealjs-url=https://unpkg.com/reveal.js@^4/ -V theme=solarized
   - pandoc  --standalone -t revealjs  -o docs/how-i-got-here/index.html how-i-got-here/slides.md -V revealjs-url=https://unpkg.com/reveal.js@^4/ -V theme=dracula
