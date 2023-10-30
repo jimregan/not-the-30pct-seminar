@@ -10,9 +10,14 @@ script:
   - mkdir docs
   - mkdir docs/edgy-joke
   - mkdir docs/how-i-got-here
+  - mkdir docs/media
+  - mkdir docs/edgy-joke/media/
+  - mkdir docs/how-i-got-here/media/
+  - cp edgy-joke/media/* docs/edgy-joke/media/
+  - cp how-i-got-here/media/* docs/how-i-got-here/media/
   # Generate reveal.js powered HTML from Markdown
-  - pandoc --standalone -t revealjs -o docs/edgy-joke/index.html edgy-joke/slides.md -V revealjs-url=https://unpkg.com/reveal.js@^4/ -V theme=solarized
-  - pandoc  --standalone -t revealjs  -o docs/how-i-got-here/index.html how-i-got-here/slides.md -V revealjs-url=https://unpkg.com/reveal.js@^4/ -V theme=dracula
+  - pandoc --standalone -t revealjs -o docs/edgy-joke/index.html edgy-joke/slides.md -V revealjs-url='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2' -V theme=solarized
+  - pandoc  --standalone -t revealjs  -o docs/how-i-got-here/index.html how-i-got-here/slides.md -V revealjs-url='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2' -V theme=dracula
 
 # Deploy to GitHub pages (see https://docs.travis-ci.com/user/deployment/pages/)
 deploy:
